@@ -33,7 +33,8 @@ Using the 4 control pins, we can make the connexion between the RX and the TX th
 And you've probably understood : using the psush button will activate the control pin that we need.
 
 # Cable schematics
-![Arduino_serial_4066](https://github.com/cdr60/uart_multicom_by_4066/assets/104300119/93ab7798-54d7-4a8e-908f-95bbf87c8e06)
+![Arduino_serial_4066_bb](https://github.com/cdr60/uart_multicom_by_4066/assets/104300119/6f72e744-7e2d-4a87-9575-0818c32ddfc8)
+
 
 ![Arduino_serial_4066_uno_bb](https://github.com/cdr60/uart_multicom_by_4066/assets/104300119/5ee22527-4ec5-48f8-8a17-e1be7f7a0cfa)
 
